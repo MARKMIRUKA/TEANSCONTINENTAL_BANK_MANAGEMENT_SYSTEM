@@ -1,0 +1,5 @@
+Type: Deposit, Amount: $5000
+Type: Transaction, Amount: $2500
+Type: Withdrawal, Amount: $2500
+Type: Repay loan, Amount: $2000
+Type: Loan, Amount: $5000
